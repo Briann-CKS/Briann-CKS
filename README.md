@@ -3,7 +3,7 @@
 - 🌱 I am currently learning UNIX systems programming in college and self-learning Data Structures during my free time
 - 💞️ I am looking to collaborate on projects that can contribute to solve real-world problems. I am also actively seeking for internship opportunities to serve the community in the field of computer software engineering and programming
 - 📫 How to reach me: 
-e-mail: brcheong@iu.edu
+kindly e-mail me at brcheong@iu.edu
 
 <!---
 Briann-CKS/Briann-CKS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

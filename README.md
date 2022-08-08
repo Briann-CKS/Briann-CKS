@@ -1,4 +1,4 @@
-Hello, my name is Brian Cheong, and I'm a junior at Purdue School of Engineering & Technology in Indianapolis. I've had a strong interest in programming since freshman year and have spent my free time learning new ideas about computer programming. I'm looking forward to applying my newfound knowledge to real-world projects and gaining a better understanding of how programming concepts and ideas can impact our lives and solve problems.
+Hello, my name is Brian Cheong, and I'm a junior at Purdue School of Engineering & Technology in Indianapolis. I've had a strong interest in programming since I was in high school and have spent my free time learning new ideas about computer programming. I'm looking forward to applying my newfound knowledge to real-world projects and gaining a better understanding of how programming concepts and ideas can impact our lives and solve problems.
 
 I am actively seeking collaboration on projects that will help solve problems and/or internship opportunities in the field of computer software engineering and programming to contribute to the community.
 
